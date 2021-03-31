@@ -1,0 +1,15 @@
+﻿  read_data.c
+C:\Users\Zean Le\Desktop\Master Program\banchandcutTSP\banchandcutTSP\read_data.c(17,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Zean Le\Desktop\Master Program\banchandcutTSP\banchandcutTSP\read_data.c(25,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Zean Le\Desktop\Master Program\banchandcutTSP\banchandcutTSP\read_data.c(30,8): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Zean Le\Desktop\Master Program\banchandcutTSP\banchandcutTSP\read_data.c(38,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Zean Le\Desktop\Master Program\banchandcutTSP\banchandcutTSP\read_data.c(68,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Zean Le\Desktop\Master Program\banchandcutTSP\banchandcutTSP\read_data.c(75,17): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Zean Le\Desktop\Master Program\banchandcutTSP\banchandcutTSP\read_data.c(104,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     Creating library C:\Users\Zean Le\Desktop\Master Program\banchandcutTSP\x64\Release\banchandcutTSP.lib and object C:\Users\Zean Le\Desktop\Master Program\banchandcutTSP\x64\Release\banchandcutTSP.exp
+  Generating code
+  1 of 31 functions ( 3.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  banchandcutTSP.vcxproj -> C:\Users\Zean Le\Desktop\Master Program\banchandcutTSP\x64\Release\banchandcutTSP.dll
